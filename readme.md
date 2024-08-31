@@ -46,4 +46,4 @@
 
 ## Превью
 
-Вы можете посмотреть рабочую версию проекта на [GitHub Pages](https:/king-tri-ton.github.io/password-kz).
+Вы можете посмотреть рабочую версию проекта на [GitHub Pages](https://king-tri-ton.github.io/password-kz).
